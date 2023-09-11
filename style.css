@@ -32,6 +32,20 @@ cap {
     color: grey;
 }
 
+article {
+  margin: 0;
+  padding: 0.3rem;
+  background-color: #eee;
+}
+
+input {
+    width: 96.5%;
+    font-size: 16px;
+    padding: 6px 6px 6px 12px;
+    border: 1px solid #ddd;
+    margin-bottom: 12px
+}
+
 body {
     font-family: 'JetBrains Mono', monospace;
 
