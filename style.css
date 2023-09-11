@@ -15,17 +15,36 @@ h1 {
     padding-bottom: 50px;
 }
 
+time {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: smaller;
+    color: grey;
+    line-height: 3.5;
+}
+
 a {
     background-color: bisque;
+}
+
+cap {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: smaller;
+    color: grey;
 }
 
 body {
     font-family: 'JetBrains Mono', monospace;
 
+    line-height: 1.45;
     margin: 0 auto;
     max-width: 36em;
     padding-left: 50px;
     padding-right: 50px;
     padding-top: 50px;
     padding-bottom: 50px;
+}
+
+.responsive {
+    width: 100%;
+    height: auto;
 }
