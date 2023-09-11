@@ -1,0 +1,31 @@
+html {
+    color: #1a1a1a;
+    background-color: #fdfdfd;
+}
+
+h1 {
+    font-family: 'JetBrains Mono', monospace;
+    background-color: lightblue;
+
+    margin: 0 auto;
+    max-width: 36em;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+a {
+    background-color: bisque;
+}
+
+body {
+    font-family: 'JetBrains Mono', monospace;
+
+    margin: 0 auto;
+    max-width: 36em;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
