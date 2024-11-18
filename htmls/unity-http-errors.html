@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<link rel="stylesheet" type="text/css" href="../style.css">
+
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>rpopic의 호기심 왕국</title>
+</head>
+<body>
+
+<h1 id="unity-http-error-insecure-connection-not-allowed">Unity HTTP
+Error (Insecure connection not allowed)</h1>
+<p>Job failed with exception:
+System.Reflection.TargetInvocationException: Exception has been thrown
+by the target of an invocation. —&gt; System.InvalidOperationException:
+Insecure connection not allowed</p>
+<p>유니티에서 뭐만 하면 이런 로그가 뜨는 경우가 있다. 에디터를 켜든
+프리팹에서 뭔갈 수정하면 계속 로그가 뜬다. 잘 살펴보면 External
+Dependency Manager때문에 일어나는 일이다. External Dependency Manager
+&gt; iOS Resolver &gt; Settings에서 Enable Analytics Reporting을 끄면
+해결되는 간단한 문제였다. Opt-out analytics세팅이라니…</p>
+
+</body>
+</html>
