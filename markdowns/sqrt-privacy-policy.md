@@ -2,7 +2,7 @@
 
 Effective Date: Dec 9, 2024
 
-Scarecrow Tactics (“we,” “our,” “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, and disclose your information when you use our game and associated services.
+Scarecrow Tactics (“we,” “our,” “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect and use your information when you use our game and associated services.
 
 ## Information We Collect and How We Use Your Information
 
@@ -58,3 +58,4 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 If you have questions or concerns about this Privacy Policy, please contact us:
 
 Email: shining.gorani@gmail.com
+
