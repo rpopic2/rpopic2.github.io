@@ -1,4 +1,4 @@
-# 0.26.6 Patch Note
+## 0.26.6 Patch Note
 
 Table of Contents
 - 한국어
