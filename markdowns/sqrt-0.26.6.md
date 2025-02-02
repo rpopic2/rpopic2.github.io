@@ -4,6 +4,8 @@ Table of Contents
 - 日本語
 - 繁體中文
 
+# 한국어
+
 0.26.6 패치노트
 
 안녕하세요, 샤이닝 고라니입니다.
@@ -13,7 +15,7 @@ Table of Contents
 버그로 인해 겪으신 불편함에 대해 사과의 말씀 드립니다.
 다음과 같은 수정 사항을 안내 드립니다.
 
-# 버그 수정
+## 버그 수정
 - 등급전, 캠페인 후에 등급, 점수, 진행 상황이 올바르게 표시되지 않던 점 수정
 - 캠페인 업적 보상을 받을 수 없던 점 수정
 - 초상화 업적 보상을 받을 수 없던 점 수정
@@ -26,17 +28,17 @@ Table of Contents
 - 인공지능에게 친구추가 요청을 보낼 수 있던 점 수정
 - 게임 결과창에서 친구 추가가 원활하지 않던 점 수정
 
-# 개선 사항
+## 개선 사항
 - 매치메이킹 알고리즘 개선
 - 오늘의 랭킹에 등급 별 테두리 적용
 - 닉네임 변경에 50 황금당근이 소요됩니다.
 
-# 번역
+## 번역
 - 특정 언어에서 구매창의 제목 크기가 올바르지 않던 점 수정
 - 특정 언어에서 승급 알림의 글씨 크기가 올바르지 않던 점 수정
 - 일본어 게임 결과 화면의 글씨가 올바르지 않던 점 수정
 
-# 공지 사항
+## 공지 사항
 - 부적절한 닉네임을 사용한 것으로 판단되면 운영자에 의하여 닉네임이 강제로 변경될 수 있습니다. 추후에도 다시 부적절한 이름으로 변경하시는 경우 계정 삭제 혹은 그에 준하는 제제가 가해질 수 있으니 주의해 주시기 바랍니다.
 - 버그 혹은 부당한 방법으로 재화를 획득한 것으로 판단되면 운영자에 의하여 재화가 회수될 수 있습니다. 이미 구매한 물건도 동일 가치의 재화로 추징되어 보유 재화가 음수로 표시될 수 있음을 안내 드립니다.
 - 제제에 대한 이의 신청을 원하시면 shining.gorani@gmail.com으로 메일로 보내주시기 바랍니다. 건전한 플레이 문화를 만들어 나가는데 동참해 주셔서 감사합니다.
@@ -46,13 +48,15 @@ Table of Contents
 플레이 해 주셔서 대단히 감사합니다.
 샤이닝 고라니 올림
 
+# English
+
 0.26.6 Patch Notes
 
 We sincerely appreciate everyone who has played and supported Scarecrow Tactics.
 On February 2, 2025, at 15:00 UTC, an emergency maintenance was conducted, and patch 0.26.6 was applied.
 We apologize for any inconvenience caused by the bugs.
 
-# Bug Fixes
+## Bug Fixes
 
 - Fixed an issue where rank, score, and progress were not displayed correctly after ranked matches and campaigns.
 - Fixed an issue where campaign achievement rewards could not be claimed.
@@ -66,19 +70,19 @@ We apologize for any inconvenience caused by the bugs.
 - Fixed an issue where friend requests could be sent to AI opponents.
 - Fixed an issue where adding friends from the game result screen was not working properly.
 
-# Improvements
+## Improvements
 
 - Improved matchmaking algorithm.
 - Applied tier borders to the daily ranking display.
 - Changing your nickname now costs 50 Golden Carrots.
 
-Translations
+## Translations
 
 - Fixed an issue where the title size of the purchase window was incorrect in certain languages.
 - Fixed an issue where the promotion notification text size was incorrect in certain languages.
 - Fixed an issue where the text in the Japanese game result screen was incorrect.
 
-Notices
+## Notices
 
 - If a nickname is deemed inappropriate, it may be forced to changed by the administrators. Repeated violations may result in account deletion or equivalent penalties.
 - If in-game currency is obtained through bugs or unfair methods, it may be revoked by the administrators. Previously purchased items may be deducted from the currency balance, potentially resulting in a negative balance.
@@ -92,6 +96,7 @@ Thank you for playing!
 Sincerely,
 Shining Gorani
 
+# 日本語
 
 0.26.6 パッチノート
 
@@ -102,7 +107,7 @@ Shining Gorani
 バグによりご不便をおかけしたことをお詫び申し上げます。
 以下、修正および改善内容をご案内いたします。
 
-# バグ修正
+## バグ修正
 
 - ランクマッチやキャンペーン終了後にランク、スコア、進行状況が正しく表示されない問題を修正。
 - キャンペーンの実績報酬を受け取れない問題を修正。
@@ -116,7 +121,7 @@ Shining Gorani
 - AIにフレンドリクエストを送信できる問題を修正。
 - ゲーム結果画面でフレンド追加が正常に動作しない問題を修正。
 
-# 改善点
+## 改善点
 
 - マッチメイキングアルゴリズムを改善。
 - 「今日のランキング」にランク別の枠を適用。
@@ -126,7 +131,7 @@ Shining Gorani
 - 一部の言語で昇格通知の文字サイズが正しく表示されない問題を修正。
 - 日本語のゲーム結果画面のテキストが正しく表示されない問題を修正。
 
-お知らせ
+## お知らせ
 
 - 不適切なニックネームと判断された場合、運営チームによって強制的に変更される可能性があります。繰り返し不適切な名前に変更した場合、アカウント削除またはそれに準ずる措置が適用されることがあります。
 - バグや不正な方法でゲーム内通貨を獲得したと判断された場合、運営チームにより回収されることがあります。すでに購入したアイテムも同等の通貨価値で徴収されるため、所持通貨がマイナスになる可能性があります。
@@ -139,6 +144,7 @@ Shining Gorani
 
 敬具 Shining Gorani
 
+# 繁體中文
 
 0.26.6 更新公告
 
