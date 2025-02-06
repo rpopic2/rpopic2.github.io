@@ -1,0 +1,194 @@
+0.27.0 Patch Notes
+
+- English
+- Korean
+
+# English
+
+Hello players,
+
+We sincerely appreciate everyone who has played and shown interest in Scarecrow Tactics.
+Patch 0.27.0 has been applied on February 7, 2025.
+
+Balance Adjustments
+
+The following card balances have been adjusted:
+
+Busy Beast: Gains 1.3 points if there are no allied soldier cards (previously 1.5).
+
+The Beast Tamer has been excessively strong in ranked games. Additionally, due to the high demand for counter picks against Beast Trainer at 500 golden carrots, we have decided to adjust its price to 500 golden carrots.
+
+Odd Horseman: Gains 0.8 points if the number of allied scarecrow cards is odd (previously 1).
+
+We determined that Riderscare's versatility was too high, so we slightly adjusted the points.
+
+Singing Being: Gains 1.2 points if the total number of allied soldier and scarecrow cards is 5 (previously 1).
+
+Shop Item Price Adjustments
+
+Please note that shop item prices may be adjusted during the demo period.
+
+Mercenary prices in the 10-carrot range were deemed too cheap and have been slightly increased.
+
+(Mercenary Name -  Carrot Price, Golden Carrot Price)
+
+Mechanic           200, 20 -> 500, 50
+Fallen knight  300, 30 -> 500, 50
+Beast tamer      1000, 100 -> 5000, 500
+Old scoundrel    500, 50 -> 1000, 100
+Doll master          X, 20 -> X, 40
+Sacrificial priest  X, 20 -> X, 40
+Executioner        X, 20 -> X, 30
+Great Fighter      X, 10 -> X, 20
+Sword master X, 10 -> X, 20
+Wheeler           X, 10 -> X, 20
+Arsonist          X, 10 -> X, 20
+Imitation artisan X, 10 -> X, 20
+
+Bug Fixes
+
+Fixed an issue where duel quests were not progressing.
+
+Fixed an issue where the game could freeze due to emotes.
+
+Fixed an issue where emotes might not display in real-time.
+
+Fixed an issue where dead soldier cards appeared to participate in score calculation (this did not affect actual game results).
+
+Fixed an issue where a card could remain abnormally in the deck if disconnected from the server during card purchases.
+
+Fixed an issue where Goat the GOAT and Bloody Flood displayed as granting themselves 1 point (this did not affect actual game results).
+
+Fixed an issue where mercenaries/cards obtained from draws appeared in the mercenary/card purchase screen.
+
+Fixed an issue where the cancel button might not be clickable while waiting for an opponent.
+
+Fixed an issue where dead cards in a facedown state could not be enlarged.
+
+Fixed an issue where only Doll master was visible in the mercenary purchase screen occasionally.
+
+Fixed an issue where the campaign skip button remained unless it was pressed.
+
+Fixed an issue where too many decimal places were displayed in battle records.
+
+Fixed an issue where Google login could fail abnormally on the PC version.
+
+Fixed an issue where the promoted rank might be displayed incorrectly.
+
+Fixed an issue where the prices and names of skins and card backs were not displayed correctly.
+
+Fixed an issue where the player level gained after a game was not displayed until reconnecting.
+
+Translation Fixes
+
+Fixed an issue where default deck names appeared in Korean in non-Korean languages.
+
+Fixed an issue where mercenary mastery quests did not display which mercenary they were for in non-Korean languages.
+
+Fixed an issue where the Chinese character for 'gold' did not display correctly.
+
+Japanese: Fixed an issue where Risky Whiskey was not displayed in the card deck.
+
+Traditional Chinese: Fixed an issue where the effect of Black Sheep was incorrectly displayed (thank you for the report!).
+
+Traditional Chinese: Fixed an issue where the effect of the Bartender was incorrectly displayed.
+
+Various unnatural text placements have been corrected.
+
+Other Improvements
+
+Improved the matchmaking algorithm to enhance matchmaking success.
+
+On the PC version, logging out now allows users to reselect their Google account.
+
+In draw probabilities, portrait items are now weighted, and duplicate notifications have been added.
+
+Applied carrot purchase illustrations for the Google Play Store version.
+
+For bug reports, suggestions, or translation issues, please contact us at shining.gorani@gmail.com or through the official Discord channel. We will continue to listen to your feedback and improve the game.
+
+Thank you sincerely to all our players.
+
+Sincerely,
+Shining Gorani
+
+# 한국어
+안녕하세요 플레이어 여러분,
+
+고수아비를 플레이해 주시고 관심을 가져 주신 모든 분들께 감사의 말씀 전합니다.
+2025년 2월 7일에 0.27.0 패치가 적용되었습니다.
+
+## 밸런스 조정
+다음 카드들의 밸런스가 조정됩니다:
+
+- 맹수아비: 아군 병사 카드가 없으면 점수를 1.3 얻는다 (1.5에서)
+
+맹수 조련사는 랭크 게임에서 지나치게 강력한 모습을 보였습니다. 또한 맹수 조련사의 카운터 픽들이 500 황금당근가에 많은 이유로 가격을 500 황금당근으로 조정하기로 하였습니다.
+
+- 기수아비: 아군 허수아비 카드의 수가 홀수면 점수를 0.8 얻는다. (1에서)
+
+기수아비의 범용성이 지나치게 좋다고 판단하여 점수를 소량 조정하였습니다.
+
+- 가수아비: 아군 병사와 허수아비 카드 수의 합이 5면 점수를 1.2 얻는다. (1에서)
+
+
+## 상점 아이템 가격 조정 안내
+
+- 상점 아이템 가격은 데모 기간에는 조정될 수 있는 점 양해 바랍니다.
+10원대의 용병 가격이 지나치게 저렴한 것으로 판단되어 소폭 상승됩니다.
+
+(용병 이름 - 주황 당근가, 황금 당근가)
+기계공          200, 20 -> 500, 50
+망국의 기사     300, 30 -> 500, 50
+맹수 조련사     1000, 100 -> 5000, 500
+망태할아범      500, 50 -> 1000, 100
+인형사          X, 20 -> X, 40
+인신제 제사장   X, 20 -> X, 40
+사형집행자      X, 20 -> X, 30
+굉장한 싸움꾼   X, 10 -> X, 20
+검술교관        X, 10 -> X, 20
+수레꾼          X, 10 -> X, 20
+방화범          X, 10 -> X, 20
+모조품 장인     X, 10 -> X, 20
+
+## 버그 수정
+
+- 결투 퀘스트가 진행되지 않는 점 수정
+- 감정표현으로 인하여 게임이 멈출 수 있던 점 수정
+- 감정표현이 실시간으로 표시되지 않을 수 있던 점 수정
+- 죽은 병사 카드가 점수 획득에 참여하는 것으로 표시되던 점 수정 (실제 게임 결과에는 영향을 끼치지 않았습니다)
+- 카드 구매 중 서버와의 접속이 끊기면 덱에 비정상적으로 남아있을 수 있던 점 수정
+- 염수아비와 홍수아비가 자신에게도 점수를 1점 주는 것으로 표시되던 점 수정 (실제 게임 결과에는 영향을 끼치지 않았습니다)
+- 뽑기에서 나온 용병/카드가 용병/카드 구매창에 등장하던 점 수정
+- 상대를 기다리는 중에서 취소 버튼이 눌리지 않을 수 있던 점 수정
+- 뒷면 상태에서 죽은 카드를 확대할 수 없던 점 수정
+- 간헐적으로 용병 구매창에 인형사만 보이던 점 수정
+- 캠페인에서 스킵 버튼을 누르지 않으면 계속 남아있던 점 수정
+- 대전 기록에 소수점 자리수가 너무 많이 표시되던 점 수정
+- PC판에서 구글 로그인이 비정상적으로 실패할 수 있던 점 수정
+- 승급되는 등급이 잘못 표시될 수 있던 점 수정
+- 스킨과 카드 뒷면의 가격과 이름이 올바르게 표시되지 않던 점 수정
+- 게임 후 재접속 전까지 올라간 플레이어 레벨이 표시되지 않던 점 수정
+
+## 번역 수정
+
+- 한국어가 아닌 언어에서 기본 덱 이름이 한글로 나오던 현상 수정
+- 한국어가 아닌 용병 숙련 퀘스트가 어떤 용병이지 보이지 않던 점 수정
+- 한자 '금'자가 정상적으로 출력되지 않던 점 수정
+- 일본어: 독수아비가 카드 덱에서 표시되지 않던 점 수정
+- 번체중문: 음수아비의 카드 효과가 잘못 출력되던 점 수정 (제보해 주셔서 감사합니다)
+- 번체중문: 인력사무소장의 효과가 잘못 출력되던 점 수정
+- 이외의 많은 부자연스러운 글자 배치 수정
+
+## 기타 개선 사항
+- 매치메이킹 알고리즘을 개선하였습니다. 매치메이킹이 더 잘 성사될 수 있는 방향으로 개선 중입니다.
+- PC판에서 로그아웃을 누르면 구글 계정을 다시 선택할 수 있도록 함
+- 뽑기 확률에서 초상화는 기울어져 적용되며 중복 안내가 추가되었습니다.
+- Google Play Store판에서 당근 구매 일러스트 적용
+
+버그 제보, 건의, 번역 문제는 shining.gorani@gmail.com 혹은 공식 디스코드 채널로 보내 주십시오. 여러분의 의견에 귀 기울이는 샤이닝 고라니가 되겠습니다.
+
+또한 게임을 지속적으로 개선해 나가도록 하겠습니다. 플레이 해 주신 모든 여러분께 진심으로 감사의 말씀 전합니다.
+
+샤이니 고라니 올림
+
