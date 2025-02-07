@@ -1,5 +1,7 @@
 0.27.0 Patch Notes
 
+<img src="../images/header.png" class="responsive">
+
 - English
 - 한국어
 - 日本語
