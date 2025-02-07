@@ -1,6 +1,6 @@
-0.27.0 Patch Notes
-
 <img src="../images/header.png" class="responsive">
+
+0.27.0 Patch Notes
 
 - English
 - 한국어
