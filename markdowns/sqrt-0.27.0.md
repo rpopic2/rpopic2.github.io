@@ -14,21 +14,21 @@ Hello players,
 We sincerely appreciate everyone who has played and shown interest in Scarecrow Tactics.
 Patch 0.27.0 has been applied on February 7, 2025.
 
-Balance Adjustments
+## Balance Adjustments
 
 The following card balances have been adjusted:
 
-Busy Beast: If you have no friendly soldier cards, gain 1.3 points. (previously 1.5).
+- Busy Beast: If you have no friendly soldier cards, gain 1.3 points. (previously 1.5).
 
 The Beast Tamer has been excessively strong in ranked games. Because most of the counter picks against Beast Trainer costs 500 golden carrots, we have decided to adjust its price to 500 golden carrots.
 
-Odd Horseman: If the number of friendly scarecrow cards is odd, gain 0.8 point. (previously 1).
+- Odd Horseman: If the number of friendly scarecrow cards is odd, gain 0.8 point. (previously 1).
 
 We determined that Odd Horseman versatility was too high, so we slightly adjusted the points.
 
-Singing Being: If the sum of friendly soldier and scarecrow cards is 5, gain 1.2 point. (previously 1).
+- Singing Being: If the sum of friendly soldier and scarecrow cards is 5, gain 1.2 point. (previously 1).
 
-Shop Item Price Adjustments
+## Shop Item Price Adjustments
 
 Please note that shop item prices may be adjusted during the demo period.
 
@@ -49,65 +49,41 @@ Wheeler           X, 10 -> X, 20
 Arsonist          X, 10 -> X, 20
 Imitation artisan X, 10 -> X, 20
 
-Bug Fixes
+## Bug Fixes
 
-Fixed an issue where duel quests were not progressing.
+- Fixed an issue where duel quests were not progressing.
+- Fixed an issue where the game could freeze due to emotes.
+- Fixed an issue where emotes might not display in real-time.
+- Fixed an issue where dead soldier cards appeared to participate in score calculation (this did not affect actual game results).
+- Fixed an issue where a card could remain abnormally in the deck if disconnected from the server during card purchases.
+- Fixed an issue where Goat the GOAT and Bloody Flood displayed as granting themselves 1 point (this did not affect actual game results).
+- Fixed an issue where mercenaries/cards obtained from draws appeared in the mercenary/card purchase screen.
+- Fixed an issue where the cancel button might not be clickable while waiting for an opponent.
+- Fixed an issue where dead cards in a facedown state could not be enlarged.
+- Fixed an issue where only Doll master was visible in the mercenary purchase screen occasionally.
+- Fixed an issue where the campaign skip button remained unless it was pressed.
+- Fixed an issue where too many decimal places were displayed in battle records.
+- Fixed an issue where Google login could fail abnormally on the PC version.
+- Fixed an issue where the promoted rank might be displayed incorrectly.
+- Fixed an issue where the prices and names of skins and card backs were not displayed correctly.
+- Fixed an issue where the player level gained after a game was not displayed until reconnecting.
 
-Fixed an issue where the game could freeze due to emotes.
+## Translation Fixes
 
-Fixed an issue where emotes might not display in real-time.
+- Fixed an issue where default deck names appeared in Korean in non-Korean languages.
+- Fixed an issue where mercenary mastery quests did not display which mercenary they were for in non-Korean languages.
+- Fixed an issue where the Chinese character for 'gold' did not display correctly.
+- Japanese: Fixed an issue where Risky Whiskey was not displayed in the card deck.
+- Traditional Chinese: Fixed an issue where the effect of Black Sheep was incorrectly displayed (thank you for the report!).
+- Traditional Chinese: Fixed an issue where the effect of the Bartender was incorrectly displayed.
+- Various unnatural text placements have been corrected.
 
-Fixed an issue where dead soldier cards appeared to participate in score calculation (this did not affect actual game results).
+## Other Improvements
 
-Fixed an issue where a card could remain abnormally in the deck if disconnected from the server during card purchases.
-
-Fixed an issue where Goat the GOAT and Bloody Flood displayed as granting themselves 1 point (this did not affect actual game results).
-
-Fixed an issue where mercenaries/cards obtained from draws appeared in the mercenary/card purchase screen.
-
-Fixed an issue where the cancel button might not be clickable while waiting for an opponent.
-
-Fixed an issue where dead cards in a facedown state could not be enlarged.
-
-Fixed an issue where only Doll master was visible in the mercenary purchase screen occasionally.
-
-Fixed an issue where the campaign skip button remained unless it was pressed.
-
-Fixed an issue where too many decimal places were displayed in battle records.
-
-Fixed an issue where Google login could fail abnormally on the PC version.
-
-Fixed an issue where the promoted rank might be displayed incorrectly.
-
-Fixed an issue where the prices and names of skins and card backs were not displayed correctly.
-
-Fixed an issue where the player level gained after a game was not displayed until reconnecting.
-
-Translation Fixes
-
-Fixed an issue where default deck names appeared in Korean in non-Korean languages.
-
-Fixed an issue where mercenary mastery quests did not display which mercenary they were for in non-Korean languages.
-
-Fixed an issue where the Chinese character for 'gold' did not display correctly.
-
-Japanese: Fixed an issue where Risky Whiskey was not displayed in the card deck.
-
-Traditional Chinese: Fixed an issue where the effect of Black Sheep was incorrectly displayed (thank you for the report!).
-
-Traditional Chinese: Fixed an issue where the effect of the Bartender was incorrectly displayed.
-
-Various unnatural text placements have been corrected.
-
-Other Improvements
-
-Improved the matchmaking algorithm to enhance matchmaking success.
-
-On the PC version, logging out now allows users to reselect their Google account.
-
-In draw probabilities, portrait items are now weighted, and duplicate notifications have been added.
-
-Applied carrot purchase illustrations for the Google Play Store version.
+- Improved the matchmaking algorithm to enhance matchmaking success.
+- On the PC version, logging out now allows users to reselect their Google account.
+- In draw probabilities, portrait items are now weighted, and duplicate notifications have been added.
+- Applied carrot purchase illustrations for the Google Play Store version.
 
 For bug reports, suggestions, or translation issues, please contact us at shining.gorani@gmail.com or through the official Discord channel. We will continue to listen to your feedback and improve the game.
 
